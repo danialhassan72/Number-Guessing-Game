@@ -1,1 +1,1 @@
-# Number-Guessing-Game
+The code first imports the random module to generate a random number between 1 and 100 using the randint() function. It then prompts the user to enter their guess and continues to ask them for guesses until they correctly guess the number.
